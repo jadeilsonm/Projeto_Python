@@ -1,5 +1,6 @@
 # Projeto_Python
-Desafio 08 – Jogo das tentativas
+Equipe 2: Emerson, Guilherme, Jadeilson, Victor
+Desafio 05 – Jogo das tentativas
 Este desafio tem o intuito de demonstrar como funciona um jogo no qual tem como
 princípio, fazer com que os jogadores trabalhem a matemática, a história, raciocínio lógico e
 conhecimentos gerais ao tentar acertar um número gerado de forma aleatória. Nele o
