@@ -79,7 +79,7 @@ def rodadas(jogadores,secreto,dicas):
     arquivo = open('vitorias.txt','a')#Adicionar o vencedor no arquivo
     arquivo.write(vencedor+'\n')
     arquivo.close()
-    print(palpites)
+    #print(palpites)
 
 def rank():
     vencedores = []
